@@ -3445,7 +3445,7 @@ Created using IcoMoon - icomoon.io
   box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.2); }
   .card .card-body {
     min-height: 190px; }
-  .card[data-background-color="orange"] {
+  .card[data-background-color="red"] {
     background-color: #ff9966; }
   .card[data-background-color="red"] {
     background-color: #FF3636; }
